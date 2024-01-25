@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Supercerebros/static/css/main.d390f3b1.css",
+    "main.js": "/Supercerebros/static/js/main.9b68baec.js",
+    "static/js/787.9a629ff5.chunk.js": "/Supercerebros/static/js/787.9a629ff5.chunk.js",
+    "index.html": "/Supercerebros/index.html",
+    "main.d390f3b1.css.map": "/Supercerebros/static/css/main.d390f3b1.css.map",
+    "main.9b68baec.js.map": "/Supercerebros/static/js/main.9b68baec.js.map",
+    "787.9a629ff5.chunk.js.map": "/Supercerebros/static/js/787.9a629ff5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d390f3b1.css",
+    "static/js/main.9b68baec.js"
+  ]
+}
